@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x63F650Edc94133E9667ea53B76dE613af504728D",
+  "SCAN_LINK": "https://polygonscan.com/address/0x63f650edc94133e9667ea53b76de613af504728d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "LarvaBlocks",
+  "SYMBOL": "LarvaBlock",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/larvablocks",
+  "SHOW_BACKGROUND": true
+}
